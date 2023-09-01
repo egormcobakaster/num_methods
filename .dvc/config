@@ -1,5 +1,5 @@
 [core]
     remote = ssh-storage
 ['remote "ssh-storage"']
-    url = ssh://uniweb.msk.unicum.ru/dvc_egor
+    url = ssh://uniweb.msk.unicum.ru/datasets
     user = fpt_faceid
